@@ -51,15 +51,15 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](https://www.youtube.com/watch?v=V8e8S069ZzI)
+### [Paired Project Presentation](https://www.youtube.com/watch?v=V8e8S069ZzI)
 
 - **Class:** Object-Oriented Programming (CSCI 325) 
 - **Grade:** [[???]]
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Security Presentation](/pdf/SSL Security Presentation.pdf)
 
-- **Class:** 
+- **Class:** Survey of Scripting Languages (CSCI 301)
 - **Grade:** [[???]]
 
 ---
