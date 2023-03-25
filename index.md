@@ -33,34 +33,34 @@ Ethics Papers
 
 ### [Paper 1 Title](/pdf/sample_presentation.pdf)
 
--   **Class:**  315 - TEST
--   **Grade:**
+-   **Class:**  
+-   **Grade:** [[???]]
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
 -   **Class:** 
--   **Grade:**
+-   **Grade:** [[???]]
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
 -   **Class:** 
--   **Grade:**
+-   **Grade:** [[???]]
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Presentation 1 Title](https://www.youtube.com/watch?v=V8e8S069ZzI)
 
-- **Class:** 
-- **Grade:**
+- **Class:** Object-Oriented Programming (CSCI 325) 
+- **Grade:** [[???]]
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)
 
 - **Class:** 
-- **Grade:**
+- **Grade:** [[???]]
 
 ---
 
