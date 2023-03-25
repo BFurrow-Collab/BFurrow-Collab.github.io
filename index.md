@@ -31,19 +31,19 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [THERAC Ethics Paper](/pdf/THERAC_Ethics_Paper.pdf)
 
--   **Class:**  
+-   **Class:** Data Structure Analysis (CSCI 315)
 -   **Grade:** [[???]]
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Ethics of Vulnerability Disclosure](/pdf/Ethics_Paper_CSCI_325_Bryce_Furrow.pdf)
 
--   **Class:** 
+-   **Class:** Object-Oriented Programming (CSCI 325)
 -   **Grade:** [[???]]
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Ethics Essay](/pdf/SSL_Ethics_Essay_Final.pdf)
 
--   **Class:** 
+-   **Class:** Survey of Scripting Languages (CSCI 301)
 -   **Grade:** [[???]]
 
 ---
@@ -60,6 +60,12 @@ Presentations
 ### [Security Presentation](/pdf/SSL_Security_Presentation.pdf)
 
 - **Class:** Survey of Scripting Languages (CSCI 301)
+- **Grade:** [[???]] 
+
+
+### [Active Directory Organizational Units](https://youtu.be/kUjx_AX7T0A)
+
+- **Class:** Cyber Defense (CSCI 352)
 - **Grade:** [[???]]
 
 ---
