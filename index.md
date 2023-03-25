@@ -33,7 +33,7 @@ Ethics Papers
 
 ### [Paper 1 Title](/pdf/sample_presentation.pdf)
 
--   **Class:**  
+-   **Class:**  315 - TEST
 -   **Grade:**
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
