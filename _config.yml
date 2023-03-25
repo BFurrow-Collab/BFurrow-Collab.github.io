@@ -8,7 +8,6 @@ description: > # your text below (remove <br /> elements if you don't need line 
   Bachelor of Science in Computer-Science (class of 2024)
   <br /><br />
   <a href="/pdf/Furrow_Resume_2023.pdf">View My Resume</a>
-  <a href="/pdf/Furrow_Resume_2023.pdf" type="application/pdf">Test Path</a>
 repository: "BFurrow-Collab/BFurrow-Collab.github.io"
 github_username:  BFurrow-Collab # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
