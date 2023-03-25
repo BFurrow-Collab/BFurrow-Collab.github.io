@@ -41,7 +41,7 @@ Ethics Papers
 -   **Class:** Object-Oriented Programming (CSCI 325)
 -   **Grade:** [[???]]
 
-### [Ethics Essay](/pdf/SSL_Ethics_Essay_Final.pdf)
+### [Copyright Ethics Essay](/pdf/SSL_Ethics_Essay_Final.pdf)
 
 -   **Class:** Survey of Scripting Languages (CSCI 301)
 -   **Grade:** [[???]]
@@ -57,7 +57,7 @@ Presentations
 - **Grade:** [[???]]
 
 
-### [Security Presentation](/pdf/SSL_Security_Presentation.pdf)
+### [Security Presentation - Target Breach](/pdf/SSL_Security_Presentation.pdf)
 
 - **Class:** Survey of Scripting Languages (CSCI 301)
 - **Grade:** [[???]] 
