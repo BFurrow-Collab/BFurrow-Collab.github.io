@@ -57,7 +57,7 @@ Presentations
 - **Grade:** [[???]]
 
 
-### [Security Presentation](/pdf/SSL Security Presentation.pdf)
+### [Security Presentation](/pdf/SSL_Security_Presentation.pdf)
 
 - **Class:** Survey of Scripting Languages (CSCI 301)
 - **Grade:** [[???]]
