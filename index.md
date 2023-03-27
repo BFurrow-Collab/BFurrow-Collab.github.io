@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [DSA Project 3 OR 4 (IDK PROJECT NAMES; both were 95) | CSCI 315](project1)
+### [(DSA) Project 2: Basic HTML Parsing and Crawling OR Project 3: Minimum Overlap Coverage (BOTH were GRADE 95) | CSCI 315](project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
