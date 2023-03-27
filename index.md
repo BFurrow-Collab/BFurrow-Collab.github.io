@@ -7,12 +7,12 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [DSA Project 3 OR 4 (IDK PROJECT NAMES; both were 95) | CSCI 315](project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Test One Project (GRADE 100) | CSCI 301](project1)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -34,7 +34,7 @@ Ethics Papers
 ### [THERAC Ethics Paper](/pdf/THERAC_Ethics_Paper.pdf)
 
 -   **Class:** Data Structure Analysis (CSCI 315)
--   **Grade:** [[???]]
+-   **Grade:** 99
 
 ### [Ethics of Vulnerability Disclosure](/pdf/Ethics_Paper_CSCI_325_Bryce_Furrow.pdf)
 
@@ -44,7 +44,7 @@ Ethics Papers
 ### [Copyright Ethics Essay](/pdf/SSL_Ethics_Essay_Final.pdf)
 
 -   **Class:** Survey of Scripting Languages (CSCI 301)
--   **Grade:** [[???]]
+-   **Grade:** 92
 
 ---
 
@@ -60,7 +60,7 @@ Presentations
 ### [Security Presentation - Target Breach](/pdf/SSL_Security_Presentation.pdf)
 
 - **Class:** Survey of Scripting Languages (CSCI 301)
-- **Grade:** [[???]] 
+- **Grade:** 100 
 
 
 ### [Active Directory Organizational Units](https://youtu.be/kUjx_AX7T0A)
