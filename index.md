@@ -9,7 +9,8 @@ Programming Projects
 ---
 ### [(DSA) Project 2: Basic HTML Parsing and Crawling OR Project 3: Minimum Overlap Coverage (BOTH were GRADE 95) | CSCI 315](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![DSA Project 2](images/DSA_Proj2_Main.png)
+![DSA Project 3](images/DSA_Proj3_Main.png)
 
 ---
 ### [Test One Project (GRADE 100) | CSCI 301](project1)
