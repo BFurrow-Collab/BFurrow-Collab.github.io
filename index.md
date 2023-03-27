@@ -4,7 +4,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:BPFurrow@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [(DSA) Project 2: Basic HTML Parsing and Crawling OR Project 3: Minimum Overlap Coverage (BOTH were GRADE 95) | CSCI 315](project1)
@@ -58,7 +58,7 @@ Presentations
 
 
 ### [Security Presentation - Target Breach](/pdf/SSL_Security_Presentation.pdf)
-
+- **[(Slides Used)](/pdf/SSL_Security_Presentation.pdf)**
 - **Class:** Survey of Scripting Languages (CSCI 301)
 - **Grade:** 100 
 
