@@ -57,7 +57,7 @@ Presentations
 - **Grade:** [[???]]
 
 
-### [Security Presentation - Target Breach](/pdf/SSL_Security_Presentation.pdf)
+### [Security Presentation - Target Breach](https://youtu.be/rso59-3ZD6w)
 - **[(Slides Used)](/pdf/SSL_Security_Presentation.pdf)**
 - **Class:** Survey of Scripting Languages (CSCI 301)
 - **Grade:** 100 
