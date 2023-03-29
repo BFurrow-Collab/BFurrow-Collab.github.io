@@ -13,7 +13,7 @@ Programming Projects
 ![DSA Project 3](images/DSA_Proj3_Main.png)
 
 ---
-### [Test One Project (GRADE 100) | CSCI 301](project1)
+### [Project 2 Title | CSCI 301](project1)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
