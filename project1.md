@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Project 2: Basic HTML Parsing and Crawling
 ===============
 
 -   **Class:** Data Structure Analysis (CSCI 315)
@@ -11,11 +11,17 @@ Project 1 Title
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project consists of two parts. The first part is a simple HTML parser that can determine if the HTML tags in a given page is balanced or not. A page is considered balanced if each html tag has a beginning and ending tag at the same level of depth. The parser does so using [[???]].
+The second part makes an HTML web crawler that, by visiting linked pages, determines the number of unique pages that can be visited from a certain page (excluding unvisitable pages such as those that don't exist). There are a number of test cases written as well to stretch the capabilities of the parser/crawler to its extremes.
 
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
+
+Download the project from the GitHub repository.
+Press the "Code" button and download it as a zip file.
+Unzip the project folder.
+Having installed WSL Ubuntu already, use ls and cd to go to, and inside, the unzipped folder.
 
 ```bash
 cd ./project
