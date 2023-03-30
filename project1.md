@@ -21,9 +21,9 @@ Navigate to the directory where you extracted the program files (using commands 
 Type "make" in the terminal as a final setup before running the program.
 Use either make commands or manually select pages to operate the program.
 ```cpp
-make [makefile command]
+make /*makefile command*/
 // OR
-./html-test [file name/relative location]
+./html-test /*file name/relative location*/
 ```
 Further operation of the program is discussed in the UI design.
 
@@ -33,13 +33,13 @@ As it is stated in the description of this project, the program will allow the u
 
 ![screenshot](images/P1_Fig1.png)  
 Fig 1. WSL Ubuntu display.
-
+<br/>
 ![screenshot](images/P1_Fig2.png)  
 Fig 2. Makefile commands.
-
+<br/>
 ![screenshot](images/P1_Fig3.png)  
 Fig 3. Example of a make command of the program.
-
+<br/>
 ![screenshot](images/P1_Fig4.png)  
 Fig 4. Example of a manual execution of the program.
 
