@@ -6,7 +6,7 @@ Project 2: Basic HTML Parsing and Crawling
 -   **Class:** Data Structure Analysis (CSCI 315)
 -   **Grade:** 95
 -   **Language(s):** C++, HTML
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/BFurrow-Collab/Porfolio-Project1)  
     (Please [email me](mailto:BPFurrow@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
