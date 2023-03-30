@@ -7,25 +7,32 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:BPFurrow@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [(DSA) Project 2: Basic HTML Parsing and Crawling OR Project 3: Minimum Overlap Coverage (BOTH were GRADE 95) | CSCI 315](project1)
+### [Project 2: Basic HTML Parsing and Crawling (GRADE 95) | CSCI 315](project1)
 
 ![DSA Project 2](images/DSA_Proj2_Main.png)
+
+---
+### [Active Directory Organizational Units (GRADE 100) | CSCI 352](project2)
+
+![Cyber Defense ADOU](images/dummy_thumbnail.jpg)
+
+---
+### [OOP Project Title (paired project (PASS) OR team project (100) ???) | CSCI 325](project3)
+
+![OOP Project Thumbnail Name](images/dummy_thumbnail.jpg)
+
+---
+### [PP Project Title | CSCI 235](project4)
+
+![PP Project Thumbnail Name](images/dummy_thumbnail.jpg)
+
+### [Project 3: Minimum Overlap Coverage (GRADE 95) | CSCI 315](project5)
+
 ![DSA Project 3](images/DSA_Proj3_Main.png)
 
----
-### [Project 2 Title | CSCI 301](project1)
-
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Project 3 Title | CSCI 325](project1)
+### [(OPTIONAL) (???) SASD Project Title (IS THIS EVEN POSSIBLE???) | CSCI 495](project1)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Project 4 Title | CSCI 332](project1)
-
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
 
@@ -40,7 +47,7 @@ Ethics Papers
 ### [Ethics of Vulnerability Disclosure](/pdf/Ethics_Paper_CSCI_325_Bryce_Furrow.pdf)
 
 -   **Class:** Object-Oriented Programming (CSCI 325)
--   **Grade:** [[???]]
+-   **Grade:** 100
 
 ### [Copyright Ethics Essay](/pdf/SSL_Ethics_Essay_Final.pdf)
 
@@ -55,7 +62,7 @@ Presentations
 ### [Paired Project Presentation](https://www.youtube.com/watch?v=V8e8S069ZzI)
 
 - **Class:** Object-Oriented Programming (CSCI 325) 
-- **Grade:** [[???]]
+- **Grade:** PASS
 
 
 ### [Security Presentation - Target Breach](https://youtu.be/rso59-3ZD6w)
@@ -67,7 +74,7 @@ Presentations
 ### [Active Directory Organizational Units](https://youtu.be/kUjx_AX7T0A)
 
 - **Class:** Cyber Defense (CSCI 352)
-- **Grade:** [[???]]
+- **Grade:** 100
 
 ---
 
