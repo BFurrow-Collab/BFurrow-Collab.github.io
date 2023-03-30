@@ -16,16 +16,16 @@ This project consists of two parts. The first part is a simple HTML parser that 
 ## How to compile and run the program
 Download the project from the GitHub repository as a zip file.
 Unzip the project folder to a directory of your choice.
-[[instructions on Ubuntu installation???]]
 Using WSL Ubuntu, open the WSL Ubuntu terminal.
 Navigate to the directory where you extracted the program files (using commands "ls" and "cd").
-Type "make" in the terminal as a final setup.
-Further operation of the program is discussed in the UI design. [[???]]
-
-```bash
-cd ./project
-python setup.py
+Type "make" in the terminal as a final setup before running the program.
+Use either make commands or manually select pages to operate the program.
+```cpp
+make [makefile command]
+// OR
+./html-test [file name/relative location]
 ```
+Further operation of the program is discussed in the UI design.
 
 ## UI Design
 
