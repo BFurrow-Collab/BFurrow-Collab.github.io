@@ -25,7 +25,7 @@ Use either make commands or manually select pages to operate the program.
 ```cpp
 make /*makefile command*/
 // OR
-./html-test /*file name/relative location*/
+./[[???]] /*file name/relative location*/
 ```
 Further operation of the program is discussed in the UI design.
 
