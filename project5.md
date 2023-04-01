@@ -11,8 +11,7 @@ Project 3: Minimum Overlap Coverage
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-(NF)
+This project follows the scenario of a professer wanting to find the most efficient way to grade a series of group projects such that the number of gradings is minimized. The project implementation uses a set of numbers to represent each group of students, and each student has a unique ID number. The goal is to find the minimum number of grades required to assess everry student, while ensuring that each group presents once and every student presents once. The program takes an input containing the student ID sets that make up each group. The output of the program will be the minimum number of grades required to assess all students. Hence, we are finding the minimum overlap coverage.
 
 ## How to compile and run the program
 
