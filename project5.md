@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 3: Minimum Overlap Coverage
+Minimum Overlap Coverage
 ===============
 
 -   **Class:** Data Structure Analysis (CSCI 315)
