@@ -3,11 +3,11 @@
 Project 4 Title
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:** Procedural Programming (CSCI 235)
+-   **Grade:** 105
+-   **Language(s):** C++
+-   **Source Code Repository:** [BFurrow-Collab/Portfolio-Project4](https://github.com/BFurrow-Collab/Portfolio-Project4)  
+    (Please [email me](mailto:BPFurrow@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
