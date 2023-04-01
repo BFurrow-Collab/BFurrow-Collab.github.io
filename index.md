@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:BPFurrow@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 2: Basic HTML Parsing and Crawling | CSCI 315](project1)
+### [Basic HTML Parsing and Crawling | CSCI 315](project1)
 
 ![DSA Project 2](images/DSA_Proj2_Main.png)
 
@@ -26,7 +26,7 @@ Programming Projects
 
 ![PP Project Thumbnail Name](images/dummy_thumbnail.jpg)
 
-### [Project 3: Minimum Overlap Coverage (GRADE 95) | CSCI 315](project5)
+### [Minimum Overlap Coverage | CSCI 315](project5)
 
 ![DSA Project 3](images/DSA_Proj3_Main.png)
 
