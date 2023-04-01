@@ -13,6 +13,8 @@ Project 4 Title
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+This project consists of two parts. The first part is a simple HTML parser that can determine if the HTML tags in a given page is balanced or not. A page is considered balanced if each html tag has a beginning and ending tag at the same level of depth. The parser does so by iterating through the file, identifying tags, and then pushing/popping with a stack to determine if they are on the same level. The second part makes an HTML web crawler that, by visiting linked pages, determines the number of unique pages that can be visited from a certain page (excluding unvisitable pages such as those that don't exist). The web crawler does so using recursion to dive down into identified links, counting those that are unique and visitable. There are a number of test cases written as well to stretch the capabilities of the parser/crawler to its extremes.
+
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
