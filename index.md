@@ -22,7 +22,7 @@ Programming Projects
 ![OOP Project Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [PP Project Title (GRADE 105) | CSCI 235](project4)
+### [Final Project - Battleship (GRADE 105 - NEED CODE) | CSCI 235](project4)
 
 ![PP Project Thumbnail Name](images/dummy_thumbnail.jpg)
 
