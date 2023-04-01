@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 2: Basic HTML Parsing and Crawling
+Basic HTML Parsing and Crawling
 ===============
 
 -   **Class:** Data Structure Analysis (CSCI 315)
