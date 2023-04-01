@@ -20,20 +20,15 @@ Unzip the project folder to a directory of your choice.
 Using WSL Ubuntu, open the WSL Ubuntu terminal.
 Navigate to the directory where you extracted the program files (using commands "ls" and "cd").
 Type "make" in the terminal as a final setup before running the program.
-Use either make commands or manually select pages to operate the program.
+Use make commands to operate the program.
 ```cpp
 make /*makefile command*/
-// OR
-./[[???]] /*file name/relative location*/
 ```
 Further operation of the program is discussed in the UI design.
 
 ## UI Design
 
-As it is stated in the description of this project, the program will allow the user to...
-(NF)
-This program can be operated within WSL Ubuntu (see Fig 1). In the project folder, the user can type "make" to initialize the program, then proceed in one of two ways. The user can continue using make commands as it is displayed in the makefile (see Fig 2 and 3), or they can manually select pages by saying "./[[???]] (program to parse/crawl)" (see Fig 4). The results will then print out in the WSL Ubuntu terminal as seen in the two previous figures.
-(NF)
+As it is stated in the description of this project, the program will allow the user to chose the least number of "student" groups necessary to "grade" all of the students. This is done as a function of the namesake of the project, minimum overlap coverage. This program can be operated within WSL Ubuntu (see Fig 1). In the project folder, the user can type "make" to initialize the program. The user can continue by using make commands as it is displayed in the makefile (see Fig 2). In this makefile, all the data sets are listed according to their filename in the data folder. In addition, a user may also add their own data sets if they were to base it off of the format present in both the makefile and set data. The results will then print out in the WSL Ubuntu terminal as seen in the two previous figures.
 
 ![screenshot](images/P5_Fig1.png)  
 Fig 1. WSL Ubuntu display.
@@ -45,7 +40,7 @@ Fig 2. Makefile commands.
 Fig 3. Example of a make command of the program.
 <br/>
 ![screenshot](images/P5_Fig4.png)  
-Fig 4. Example of a manual execution of the program.
+Fig 4. Example of another make command of the program.
 
 <br/>
 
