@@ -31,19 +31,23 @@ Further operation of the program is discussed in the UI design.
 
 ## UI Design
 
+As it is stated in the description of this project, the program will allow the user to...
 (NF)
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+This program can be operated within WSL Ubuntu (see Fig 1). In the project folder, the user can type "make" to initialize the program, then proceed in one of two ways. The user can continue using make commands as it is displayed in the makefile (see Fig 2 and 3), or they can manually select pages by saying "./[[???]] (program to parse/crawl)" (see Fig 4). The results will then print out in the WSL Ubuntu terminal as seen in the two previous figures.
+(NF)
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+![screenshot](images/P5_Fig1.png)  
+Fig 1. WSL Ubuntu display.
+<br/>
+![screenshot](images/P5_Fig2.png)  
+Fig 2. Makefile commands.
+<br/>
+![screenshot](images/P5_Fig3.png)  
+Fig 3. Example of a make command of the program.
+<br/>
+![screenshot](images/P5_Fig4.png)  
+Fig 4. Example of a manual execution of the program.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
 <br/>
 
 [Back to Portfolio](./)
