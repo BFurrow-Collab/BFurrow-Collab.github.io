@@ -6,8 +6,8 @@ Project 2 Title
 -   **Class:** 
 -   **Grade:** 
 -   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [BFurrow-Collab/Portfolio-Project2](https://github.com/BFurrow-Collab/Portfolio-Project2)  
+    (Please [email me](mailto:BPFurrow@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
