@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Active Directory Organizational Units (GRADE 100) | CSCI 352](project2)
 
-![Cyber Defense ADOU](images/dummy_thumbnail.jpg)
+![Cyber Defense ADOU](images/ADOU_Main_Pic.png)
 
 ---
 ### [OOP Project Title (paired project (PASS) OR team project (100) ???) | CSCI 325](project3)
