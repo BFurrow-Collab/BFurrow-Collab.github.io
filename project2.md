@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## How to run the program
 
 All of the details of proceding through this program are in the following document: 
-[Organizational Unit with Group Policy Restriction](/pdf/Active_Directory_Organizational_Units.pdf)
+[Organizational Unit with Group Policy Restriction](/pdf/Active_Directory_Organizational_Units_Exercise.pdf)
 <br>
 You may also follow this walkthrough video of these same steps (which is also located in the presentations section):
 [ADOU Video](https://youtu.be/IXLSksYSdv0)
