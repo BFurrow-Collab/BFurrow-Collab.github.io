@@ -12,7 +12,7 @@ Programming Projects
 ![DSA Project 2](images/DSA_Proj2_Main.png)
 
 ---
-### [Active Directory Organizational Units (GRADE 100) | CSCI 352](project2)
+### [Active Directory Organizational Units | CSCI 352](project2)
 
 ![Cyber Defense ADOU](images/ADOU_Main_Pic.png)
 
@@ -30,10 +30,11 @@ Programming Projects
 
 ![DSA Project 3](images/DSA_Proj3_Main.png)
 
+<!--
 ### [(OPTIONAL) (???) SASD Project Title (IS THIS EVEN POSSIBLE???) | CSCI 495](project1)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
-
+-->
 ---
 
 Ethics Papers
