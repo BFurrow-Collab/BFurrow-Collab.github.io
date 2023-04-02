@@ -25,18 +25,19 @@ You may also follow this walkthrough video of these same steps (which is also lo
 
 You can find every step and topic of the user interaction within the two previous links - the documented steps and the walkthrough video. 
 
-In the shorthand, though, ... (list some of the tasks and what it does that can be screenshots)
+In the shorthand, though, the user will have to set up the VirtualBox virtual machine (see Fig 1), add the ISO files, setup and operate within Active Directory (see Fig 2 and 3), and create organizational groups with group policies (see Fig 4). In this case, we'll be seeing how a group policy can restrict even specific settings (like the system clock in the notification area).
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+![screenshot](images/Picture1.png)  
+Fig 1. The VirtualBox launch screen.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/Picture2.png)  
+Fig 2. The Server Dashboard where the Active Directory is set up.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/Picture3.png)  
+Fig 3. The Active Directory launch screen.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Picture4.png)  
+Fig 4. A group policy being setup and applied to a group.
 
 ## 3. Additional Considerations
 
