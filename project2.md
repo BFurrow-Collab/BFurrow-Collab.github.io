@@ -1,11 +1,11 @@
 [Back to Portfolio](./)
 
-Project 2 Title
+Active Directory Organizational Units
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class:** Cyber Defense (CSCI 352)
+-   **Grade:** 100
+-   **Language(s):** N/A
 -   **Source Code Repository:** [BFurrow-Collab/Portfolio-Project2](https://github.com/BFurrow-Collab/Portfolio-Project2)  
     (Please [email me](mailto:BPFurrow@csustudent.net?subject=GitHub%20Access) to request access.)
 
@@ -13,16 +13,13 @@ Project 2 Title
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## How to compile and run the program
+## How to run the program
 
-How to compile (if applicable) and run the project.
-
-```bash
-cd ./project
-python setup.py
-```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+All of the details of proceding through this program are in the following document: 
+[Organizational Unit with Group Policy Restriction](/pdf/Active_Directory_Organizational_Units.pdf)
+<br>
+You may also follow this walkthrough video of these same steps (which is also located in the presentations section):
+[ADOU Video](https://youtu.be/IXLSksYSdv0)
 
 ## UI Design
 
@@ -42,7 +39,5 @@ Fig 3. Feedback when an error occurs.
 ## 3. Additional Considerations
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
