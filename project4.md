@@ -17,9 +17,9 @@ The game takes place within two 10 x 10 grids, one for the player and one for th
 Ship Name	&emsp;&emsp;&ensp;        Length<br/>
 Aircraft Carrier &emsp;   5<br/>
 Battleship	 &emsp;&emsp;&emsp;       4<br/>
-Submarine	 &emsp;&emsp;&emsp;       3<br/>
+Submarine	  &emsp;&emsp;&emsp;      3<br/>
 Destroyer	  &emsp;&emsp;&emsp;      3<br/>
-Patrol Boat	  &emsp;&emsp;      2<br/>
+Patrol Boat	  &emsp;&emsp;&nbsp;      2<br/>
 <br/>
 In this program, the ship placement on the board will be randomly generated, and the user will have a yes/no choice on if they want to use the board. This will continue until the player says yes. The player and the enemy AI then take turns choosing which tile on the board to target. If that tile had a ship, it's a hit signified by an 'X'. If it's a miss, it displays a '~'. When all tiles of a ship are hit, the ship is sunk, and the sinking is announced (e.g. "You sank the enemy's battleship!"). Whoever sinks all the opponent's ships first wins.
 <br/>
