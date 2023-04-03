@@ -1,11 +1,11 @@
 [Back to Portfolio](./)
 
-Project 3 Title
+Team Project - Castle of Conquest
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class:** Object-Oriented Programming (CSCI 325)
+-   **Grade:** 100
+-   **Language(s):** Java
 -   **Source Code Repository:** [BFurrow-Collab/Portfolio-Project3](https://github.com/BFurrow-Collab/Portfolio-Project3)  
     (Please [email me](mailto:BPFurrow@csustudent.net?subject=GitHub%20Access) to request access.)
 
@@ -38,11 +38,5 @@ Fig 2. Example output after input is processed.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 3. Feedback when an error occurs.
-
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
