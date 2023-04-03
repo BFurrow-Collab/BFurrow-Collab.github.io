@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Final Project - Battleship (NEED CODE) | CSCI 235](project4)
 
-![PP Project Thumbnail Name](images/dummy_thumbnail.jpg)
+![PP Project Thumbnail Name](images/Battleship_Main_Pic.png)
 
 ### [Minimum Overlap Coverage | CSCI 315](project5)
 
