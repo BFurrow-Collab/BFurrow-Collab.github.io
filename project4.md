@@ -17,7 +17,7 @@ The game takes place within two 10 x 10 grids, one for the player and one for th
 Ship Name	&emsp;&emsp;&ensp;        Length<br/>
 Aircraft Carrier &emsp;   5<br/>
 Battleship	 &emsp;&emsp;&emsp;       4<br/>
-Submarine	 &emsp;&emsp;&emsp;      3<br/>
+Submarine	 &emsp;&emsp;&ensp;&nbsp;      3<br/>
 Destroyer	  &emsp;&emsp;&emsp;      3<br/>
 Patrol Boat	  &emsp;&emsp;&nbsp;      2<br/>
 <br/>
