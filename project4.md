@@ -11,9 +11,21 @@ Project 4 Title
 
 ## Project description
 
-This project ... (describe the Battleship game, describe what is being worked on specifically)
+This project is simple - to program the game of Battleship. 
+The game takes place within two 10 x 10 grids, one for the player and one for the AI. Each tile on the grid is represented by a row letter and column number (e.g. B3). Each ship takes up consecutive tiles, arranged either horizontally or vertically. The ships cannot overlap, and there is one type of each of varying lengths. 
+<br/>
+Ship Name	        Length
+Aircraft Carrier    5
+Battleship	        4
+Submarine	        3
+Destroyer	        3
+Patrol Boat	        2
+<br/>
+In this program, the ship placement on the board will be randomly generated, and the user will have a yes/no choice on if they want to use the board. This will continue until the player says yes. The player and the enemy AI then take turns choosing which tile on the board to target. If that tile had a ship, it's a hit signified by an 'X'. If it's a miss, it displays a '~'. When all tiles of a ship are hit, the ship is sunk, and the sinking is announced (e.g. "You sank the enemy's battleship!"). Whoever sinks all the opponent's ships first wins.
+<br/>
+The programmed AI for the enemy was provided by the professor due to it being above the level of the class. The sections to work on included ... [[NEED PROMPT EMAIL]]. [[FURTHER EXPLANATIONS]] 
 
-This project consists of two parts. The first part is a simple HTML parser that can determine if the HTML tags in a given page is balanced or not. A page is considered balanced if each html tag has a beginning and ending tag at the same level of depth. The parser does so by iterating through the file, identifying tags, and then pushing/popping with a stack to determine if they are on the same level. The second part makes an HTML web crawler that, by visiting linked pages, determines the number of unique pages that can be visited from a certain page (excluding unvisitable pages such as those that don't exist). The web crawler does so using recursion to dive down into identified links, counting those that are unique and visitable. There are a number of test cases written as well to stretch the capabilities of the parser/crawler to its extremes.
+... (describe the Battleship game, describe what is being worked on specifically)
 
 ## How to compile and run the program
 
@@ -27,6 +39,11 @@ python setup.py
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
+
+Due to the nature of this project as a turn-based game, user interaction is a constant throughout rather than being of minimal input and output (which is the case for many other program projects). As it was stated within the game rules in the project description, the user will start off by having a yes/no choice on a starting board with randomized ship placements (see Fig 1). The user will be prompted with new boards continuously so long as they say 'n' for no. Once they say 'y' for yes, the game will start. The enemy turns will be independent - out of the player's control. The player only has control of which letter-number tile they wish to target, an action prompted in text after the AI's turn (see Fig 2 and 3). This will continue until all the ships of either the user or the AI are sunk (see Fig 4 and 5). [[???]] After this, the player will be given another yes/no quesstion on if they wish to play another game. [[???]]
+
+<br/>
+
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
@@ -45,6 +62,9 @@ Fig 3. Feedback when an error occurs. [[User action]]
 Fig 4. Feedback when an error occurs. [[User loses (?)]]
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 4. Feedback when an error occurs. [[User wins]]
+Fig 5. Feedback when an error occurs. [[User wins]]
+
+![screenshot](images/dummy_thumbnail.jpg)  
+Fig 5. Feedback when an error occurs. [[Continue? prompt - ???]]
 
 [Back to Portfolio](./)
