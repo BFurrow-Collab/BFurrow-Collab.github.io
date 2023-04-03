@@ -14,12 +14,12 @@ Project 4 Title
 This project is simple - to program the game of Battleship. 
 The game takes place within two 10 x 10 grids, one for the player and one for the AI. Each tile on the grid is represented by a row letter and column number (e.g. B3). Each ship takes up consecutive tiles, arranged either horizontally or vertically. The ships cannot overlap, and there is one type of each of varying lengths. 
 <br/><br/>
-Ship Name	&emsp;        Length<br/>
-Aircraft Carrier    5<br/>
-Battleship	        4<br/>
-Submarine	        3<br/>
-Destroyer	        3<br/>
-Patrol Boat	        2<br/>
+Ship Name	&emsp;&emsp;        Length<br/>
+Aircraft Carrier &emsp;   5<br/>
+Battleship	 &emsp;&emsp;       4<br/>
+Submarine	 &emsp;&emsp;       3<br/>
+Destroyer	  &emsp;&emsp;      3<br/>
+Patrol Boat	  &emsp;      2<br/>
 <br/>
 In this program, the ship placement on the board will be randomly generated, and the user will have a yes/no choice on if they want to use the board. This will continue until the player says yes. The player and the enemy AI then take turns choosing which tile on the board to target. If that tile had a ship, it's a hit signified by an 'X'. If it's a miss, it displays a '~'. When all tiles of a ship are hit, the ship is sunk, and the sinking is announced (e.g. "You sank the enemy's battleship!"). Whoever sinks all the opponent's ships first wins.
 <br/>
