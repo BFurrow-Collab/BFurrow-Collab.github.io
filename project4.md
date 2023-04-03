@@ -13,13 +13,6 @@ Project 4 Title
 
 This project is simple - to program the game of Battleship. 
 The game takes place within two 10 x 10 grids, one for the player and one for the AI. Each tile on the grid is represented by a row letter and column number (e.g. B3). Each ship takes up consecutive tiles, arranged either horizontally or vertically. The ships cannot overlap, and there is one type of each of varying lengths. 
-<br/><br/>
-Ship Name	&emsp;&emsp;&ensp;        Length<br/>
-Aircraft Carrier &emsp;   5<br/>
-Battleship	 &emsp;&emsp;&emsp;       4<br/>
-Submarine	 &emsp;&emsp;&ensp;&nbsp;      3<br/>
-Destroyer	  &emsp;&emsp;&emsp;      3<br/>
-Patrol Boat	  &emsp;&emsp;&nbsp;      2<br/>
 <br/>
 Aircraft Carrier: 5<br/>
 Battleship: 4<br/>
