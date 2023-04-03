@@ -11,7 +11,7 @@ Project 4 Title
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project ... (describe the Battleship game, describe what is being worked on specifically)
 
 This project consists of two parts. The first part is a simple HTML parser that can determine if the HTML tags in a given page is balanced or not. A page is considered balanced if each html tag has a beginning and ending tag at the same level of depth. The parser does so by iterating through the file, identifying tags, and then pushing/popping with a stack to determine if they are on the same level. The second part makes an HTML web crawler that, by visiting linked pages, determines the number of unique pages that can be visited from a certain page (excluding unvisitable pages such as those that don't exist). The web crawler does so using recursion to dive down into identified links, counting those that are unique and visitable. There are a number of test cases written as well to stretch the capabilities of the parser/crawler to its extremes.
 
@@ -33,18 +33,18 @@ Almost every program requires user interaction, even command-line programs. Incl
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+Fig 1. The launch screen [[Battleship starting screen]]
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+Fig 2. Example output after input is processed. [[Enemy action]]
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+Fig 3. Feedback when an error occurs. [[User action]]
 
-## 3. Additional Considerations
+![screenshot](images/dummy_thumbnail.jpg)  
+Fig 4. Feedback when an error occurs. [[User loses (?)]]
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![screenshot](images/dummy_thumbnail.jpg)  
+Fig 4. Feedback when an error occurs. [[User wins]]
 
 [Back to Portfolio](./)
