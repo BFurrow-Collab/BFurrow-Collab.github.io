@@ -17,14 +17,14 @@ Programming Projects
 ![Cyber Defense ADOU](images/ADOU_Main_Pic.png)
 
 ---
-### [OOP Project Title (paired project (PASS) OR team project (100) ???) | CSCI 325](project3)
+### [Team Project - Castle of Conquest | CSCI 325](project3)
 
-![OOP Project Thumbnail Name](images/dummy_thumbnail.jpg)
+![Castle of Conquest](images/dummy_thumbnail.jpg)
 
 ---
 ### [Final Project - Battleship (NEED CODE) | CSCI 235](project4)
 
-![PP Project Thumbnail Name](images/Battleship_Main_Pic.png)
+![Battleship](images/Battleship_Main_Pic.png)
 
 ### [Minimum Overlap Coverage | CSCI 315](project5)
 
