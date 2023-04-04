@@ -59,4 +59,9 @@ Fig 5. Feedback when an error occurs. [[User wins]]
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 5. Feedback when an error occurs. [[Continue? prompt - ???]]
 
+## 3. Additional Considerations
+
+An point of significance would be the source of my extra 5 points beyond 100. 
+This is because [[??? - look at assignment instructions html]]
+
 [Back to Portfolio](./)
