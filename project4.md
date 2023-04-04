@@ -49,34 +49,30 @@ The programmed AI for the enemy was provided by the professor due to it being ab
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+Download the project from the GitHub repository as a zip file.
+Unzip the project folder to a directory of your choice.
+Run the battleship.exe file that can be found in the Portfolio-Project4 GitHub repository (which is linked at the top of this page).
+Using WSL Ubuntu, open the WSL Ubuntu terminal.
+Navigate to the directory where you extracted the program files (using commands "ls" and "cd").
+Further operation of the program is discussed in the UI design.
 
-```bash
-cd ./project
-python setup.py
-```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
-Due to the nature of this project as a turn-based game, user interaction is a constant throughout rather than being of minimal input and output (which is the case for many other program projects). As it was stated within the game rules in the project description, the user will start off by having a yes/no choice on a starting board with randomized ship placements (see Fig 1). The user will be prompted with new boards continuously so long as they say 'n' for no. Once they say 'y' for yes, the game will start. The enemy turns will be independent - out of the player's control. The player only has control of which letter-number tile they wish to target, an action prompted in text after the AI's turn (see Fig 2 and 3). This will continue until all the ships of either the user or the AI are sunk (see Fig 4 and 5). After this, the enemy's board will be revealed to the player (assuming that the player did not win).
+Due to the nature of this project as a turn-based game, user interaction is a constant throughout rather than being of minimal input and output (which is the case for many other program projects). As it was stated within the game rules in the project description, the user will start off by having a yes/no choice on a starting board with randomized ship placements (see Fig 1). The user will be prompted with new boards continuously so long as they say 'n' for no. Once they say 'y' for yes, the game will start. The enemy turns will be independent - out of the player's control. The player only has control of which letter-number tile they wish to target, an action prompted in text after the AI's turn (see Fig 2). This will continue until all the ships of either the user or the AI are sunk (see Fig 3 and 4). After this, the enemy's board will be revealed to the player (assuming that the player did not win).
 <br/>
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/Battle_1.png)  
 Fig 1. The starting screen.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output of an enemy action.
+![screenshot](images/Battle_2.png)  
+Fig 2. Example output after both a player and an enemy action.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Example output of a player action.
+![screenshot](images/Battle_3.png)  
+Fig 3. Example of when the player inputs an invalid coordinate.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 4. Example of when the player loses.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 5. Example of when the player wins.
+![screenshot](images/Battle_4.png)  
+Fig 4. Example of when the player wins.
 
 ## 3. Additional Considerations
 
