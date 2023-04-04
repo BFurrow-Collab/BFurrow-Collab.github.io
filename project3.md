@@ -31,12 +31,22 @@ Almost every program requires user interaction, even command-line programs. Incl
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+Fig 1. The Castle of Conquest launch screen.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+Fig 2. The introduction of the game.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+Fig 3. Example of an encounter with an enemy.
+
+![screenshot](images/dummy_thumbnail.jpg)  
+Fig 4. Example of finding a new item.
+
+![screenshot](images/dummy_thumbnail.jpg)  
+Fig 5. The ending of the game.
+
+## 3. Additional Considerations
+
+If I could have added anything to this project, it would be some sort of visuals. As the game is, it is entirely text-based. While the game is functional, it would be far more fun with that extra visual element. However, our time was limited and nobody in the group specialized in that sort of thing, so we didn't expand beyond our scope.  
 
 [Back to Portfolio](./)
