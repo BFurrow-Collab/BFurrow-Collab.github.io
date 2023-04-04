@@ -22,7 +22,7 @@ Programming Projects
 ![Castle of Conquest](images/dummy_thumbnail.jpg)
 
 ---
-### [Final Project - Battleship (NEED CODE) | CSCI 235](project4)
+### [Final Project - Battleship | CSCI 235](project4)
 
 ![Battleship](images/Battleship_Main_Pic.png)
 
