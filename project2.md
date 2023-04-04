@@ -41,6 +41,6 @@ Fig 4. A group policy being setup and applied to a group.
 
 ## 3. Additional Considerations
 
-[[???]]
+It is important to note that this assignment requires specific ISO files. These files are linked to within the GitHub release of Portfolio-Project2 (linked at the top of this page).
 
 [Back to Portfolio](./)
