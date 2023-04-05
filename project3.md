@@ -11,9 +11,11 @@ Team Project - Castle of Conquest
 
 ## Project description
 
-[[???]]
+Speaking of the game generally, Castle of Conquest is a text-based adventure game where a player traverses through a series of areas, fighting monsters and earning loot along the way. The player must make their way through four levels before they face off against the final boss to protect their land and win the game. Your hero, guided by a fairy named Nova, must find their way through the land of Ukro to stop the evil, corrupted king. <br/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The game starts by welcoming the player and asking them to name their character. The game will greet the player by name and start Level One in a forest setting. The player’s guide, Nova, will inform them that the corrupt king has taken over the land of Ukro, and they are the only one who can stop him. If the player accepts the challenge, the game will proceed to Level Two. In this level, the player will need to get out of the forest by fighting monsters. The player will not be able to proceed until each monster is defeated. The player may use 5 healing potions to help them progress through the game. When the user reaches the castle, Level Three will begin. In Level Three, the player will journey deeper into the castle in an attempt to locate the corrupt king. This area has stronger monsters that are more difficult to fight compared to those encountered in the forest. As the player makes their way through the castle, they eventually reach the center. There they find the corrupt king and a battle ensues (the start of Level Four). The corrupt king summons the final boss, a dragon, but loses control of it. The dragon turns on the king and then the player must defeat the dragon. Once the player defeats the dragon, the land is saved, and they win the game. <br/>
+
+Mechanically, everything is essentially a series of objects with attributes as well as some arrays alongside them. The story text is output triggered by the defeat of all the monsters in the area, which differs in each level. The areas which I worked in includes the player character, the monsters, their attributes, and the actions that can affect them both like attacking and healing. The player, the evil king, and the dragon each have a set maximum health. The player's damage depends on the level being played - each area starts with finding a new weapon with higher attack damage. The player can recover 20 points of lost health from potions, which they only have 5 from the start of the game to the end. Mob enemies such as skeletons have a certain range of health and attack damage, and each number is randomly chosen each time one of them appears. All attacks in the game follow this idea of range and randomization. 
 
 ## How to compile and run the program
 
@@ -26,6 +28,12 @@ Open a terminal of your preference that can use Java and start running the progr
 ## UI Design
 
 [[???]]
+Due to the nature of this project as a turn-based game, user interaction is a constant throughout rather than being of minimal input and output (which is the case for many other program projects). 
+
+(Please name your character:)
+(Will you accept this quest?)
+(every turn, there is a prompt asking if the player would like to use one of their health potions ; UNTIL they have none left, which then prompts the player asking if they want to continue or not) (before each level, the player is asked if they want to continue or not - both of these were done in order to save time for the player)
+
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
@@ -39,13 +47,13 @@ Fig 2. The introduction of the game.
 Fig 3. Example of an encounter with an enemy.
 
 ![screenshot](images/CC_4.png)  
-Fig 4. Example of finding a new item.
+Fig 4. Example of the start of a level.
 
 ![screenshot](images/CC_5.png)  
 Fig 5. The ending of the game.
 
 ## 3. Additional Considerations
 
-If I could have added anything to this project, it would be some sort of visuals. As the game is, it is entirely text-based. While the game is functional, it would be far more fun with that extra visual element. However, our time was limited and nobody in the group specialized in that sort of thing, so we didn't expand beyond our scope.  
+If I could have added anything to this project, it would be some sort of visuals. As the game is, it is entirely text-based. While the game is functional, it would be far more fun and interesting with that extra visual element. However, our time was limited and nobody in the group specialized in that sort of thing, so we didn't expand beyond our scope.  
 
 [Back to Portfolio](./)
