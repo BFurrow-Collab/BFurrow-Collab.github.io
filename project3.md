@@ -27,15 +27,7 @@ Open a terminal of your preference that can use Java and start running the progr
 
 ## UI Design
 
-[[???]]
-Due to the nature of this project as a turn-based game, user interaction is a constant throughout rather than being of minimal input and output (which is the case for many other program projects). 
-
-(Please name your character:)
-(Will you accept this quest?)
-(every turn, there is a prompt asking if the player would like to use one of their health potions ; UNTIL they have none left, which then prompts the player asking if they want to continue or not) (before each level, the player is asked if they want to continue or not - both of these were done in order to save time for the player)
-
-
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+Due to the nature of this project as a turn-based game, user interaction is a constant throughout rather than being of minimal input and output (which is the case for many other program projects). Some of the user interactions have already been stated in the description, but I will restate them anyways. The first prompt to the player asks to name their hero character's name, and the player can answer with any string. In order to save the time of a player, there are multiple times when a player can choose to stop playing in a yes/no answer. If the player says "no", the game ends. If they player says "yes", the game continues. One example of this is right after being informed of the quest and plight of the land. This is repeated the end of each level (besides at the ending). This option is also given if a player uses all 5 of their potions. This in place so that, if the player is in a bad place, they don't have to, turn-by-turn, run their health down until their character dies. There were attack and defense variations planned early on, but we decided that it'd be easier to have automatic attacks since the game is relatively short, so there is no user interaction in that respect. Overall, we decided to create an easier time for players rather than risking making something annoying, frustrating, and/or overcomplicated.
 
 ![screenshot](images/CC_1.png)  
 Fig 1. The Castle of Conquest launch screen.
