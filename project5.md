@@ -6,7 +6,7 @@ Minimum Overlap Coverage
 -   **Class:** Data Structure Analysis (CSCI 315)
 -   **Grade:** 95
 -   **Language(s):** C++
--   **Source Code Repository:** [BFurrow-Collab/Portfolio-Project5](https://github.com/BFurrow-Collab/Porfolio-Project5)  
+-   **Source Code Repository:** [BFurrow-Collab/Portfolio-Project5](https://github.com/BFurrow-Collab/Portfolio-Project5)  
     (Please [email me](mailto:BPFurrow@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
