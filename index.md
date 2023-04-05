@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Team Project - Castle of Conquest | CSCI 325](project3)
 
-![Castle of Conquest](images/dummy_thumbnail.jpg)
+![Castle of Conquest](images/CC_Main.png)
 
 ---
 ### [Final Project - Battleship | CSCI 235](project4)
@@ -30,11 +30,6 @@ Programming Projects
 
 ![DSA Project 3](images/DSA_Proj3_Main.png)
 
-<!--
-### [(OPTIONAL) (???) SASD Project Title (IS THIS EVEN POSSIBLE???) | CSCI 495](project1)
-
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
--->
 ---
 
 Ethics Papers
