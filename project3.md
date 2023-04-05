@@ -17,16 +17,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## How to compile and run the program
 
-[[???]]
-
-How to compile (if applicable) and run the project.
-
-```bash
-cd ./project
-python setup.py
-```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+Download the project from the GitHub repository as a zip file.
+In whichever way you choose, download and install the latest JDK (Java Development Kit) for your system and/or IDE to use the program.<br/>
+(*Note: This project was originally programmed in NetBeans IDE. Therefore, not all the files present in the repository are necessary. However, those additional files were kept in case one would wish for it in its original form.*) <br/>
+Unzip the project folder to a directory of your choice.
+Open a terminal of your preference that can use Java and start running the program.
 
 ## UI Design
 
